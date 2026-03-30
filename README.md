@@ -33,5 +33,5 @@ bivariée) et d’analyse de la variance. | R studio |
 ## 📫 Me contacter
 
 - 📧 tallfatimata0705@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/fatimata-tall)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fatimata-tall-a561b32a0/)  
 - 📞 +33 6 65 21 96 63
