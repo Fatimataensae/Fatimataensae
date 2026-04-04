@@ -1,7 +1,7 @@
 # Bonjour, je suis Fatimata Tall 👋
 
 🎓 Étudiante en M1 Mathématiques et Apprentissage Statistique à Paris-Saclay  
-🔍 À la recherche d'un stage de 4 à 6 mois en Data Science (dès mars 2026)  
+🔍 À la recherche d'un stage de 4 mois en Data Science (dès mai 2026)  
 📍 Ile de France, France
 
 ---
@@ -21,10 +21,10 @@
 
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
-| [Chatbot RAG](lien) | Chatbot basé sur des données Reddit avec fine-tuning de GPT-2 | Python, NLP, PRAW, Gradio |
-| [Pipeline ETL & Cloud](lien) | Collecte automatisée via API et stockage AWS | Python, AWS, ETL |
-| [Prédiction Trafic Transports](lien) | Modélisation prédictive sur titres de transport | Python, Scikit-learn |
-| [Classification Risque Assurance](lien) | Pipeline ML complet : régression logistique, SVM, forêts aléatoires | Python, Scikit-learn |
+| [Chatbot RAG](https://github.com/Fatimataensae/chatbot-rag-reddit) | Chatbot basé sur des données Reddit avec fine-tuning de GPT-2 | Python, NLP, PRAW, Gradio |
+| [Pipeline ETL & Cloud](https://github.com/Fatimataensae/pipeline-etl-aws) | Collecte automatisée via API et stockage AWS | Python, AWS, ETL |
+| [Prédiction Trafic Transports](https://github.com/Fatimataensae/prediction-trafic-transports) | Modélisation prédictive sur titres de transport | Python, Scikit-learn |
+| [Classification Risque Assurance](https://github.com/Fatimataensae/classification-risque-assurance) | Pipeline ML complet : régression logistique, SVM, forêts aléatoires | Python, Scikit-learn |
 | [Tableau de bord ANOVA (RShiny)](lien) | Développement d’une application interactive d’analyse statistique (uni-et bivariée) et d’analyse de la variance. | R studio |
 
 ---
