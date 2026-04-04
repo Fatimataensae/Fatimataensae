@@ -25,8 +25,7 @@
 | [Pipeline ETL & Cloud](lien) | Collecte automatisée via API et stockage AWS | Python, AWS, ETL |
 | [Prédiction Trafic Transports](lien) | Modélisation prédictive sur titres de transport | Python, Scikit-learn |
 | [Classification Risque Assurance](lien) | Pipeline ML complet : régression logistique, SVM, forêts aléatoires | Python, Scikit-learn |
-| [Tableau de bord ANOVA (RShiny)](lien) | Développement d’une application interactive d’analyse statistique (uni-et
-bivariée) et d’analyse de la variance. | R studio |
+| [Tableau de bord ANOVA (RShiny)](lien) | Développement d’une application interactive d’analyse statistique (uni-et bivariée) et d’analyse de la variance. | R studio |
 
 ---
 
