@@ -1,12 +1,12 @@
 # Bonjour, je suis Fatimata Tall 👋
 
-Étudiante en M2 Mathématiques et Apprentissage Statistique à l’Université Paris-Saclay, je m’intéresse au Machine Learning, au Deep Learning et à la recherche en intelligence artificielle. Je recherche un stage de recherche de 6 mois à partir de mars 2027.% avec une eventuelle poursuite en thèse.
+Étudiante en M2 Mathématiques et Apprentissage Statistique à l’Université Paris-Saclay, je m’intéresse au Machine Learning, au Deep Learning et à la recherche en intelligence artificielle. Je recherche un stage de recherche de 6 mois à partir de mars 2027 avec une eventuelle poursuite en thèse.
 
 📍 Ile de France, France
 
 ---
 
-## 🛠️ Stack technique
+## 🛠️ Compétences
 
 - **ML & Deep Learning** : Scikit-learn, GAN, VAE, NLP, RAG  
 - **Langages** : Python (Pandas, NumPy), R, SQL, SAS  
