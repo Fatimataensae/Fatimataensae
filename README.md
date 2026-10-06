@@ -6,10 +6,10 @@
 
 ---
 
-## 🛠️ Compétences
+## Compétences
 
-- **ML & Deep Learning** : Scikit-learn, GAN, VAE, NLP, RAG  
-- **Langages** : Python (Pandas, NumPy), R, SQL, SAS  
+- **ML & Deep Learning** : Apprentissage supervisée(Regression, Classification), Apprentissage non supervisée, Apprentissage par renforcement, GAN, VAE, NLP, RAG  
+- **Langages** : Python (Pandas, NumPy, scikit_Learn, Matplotlib, pyTorch), R, SQL, SAS  
 - **Statistiques** : Inférence, Séries temporelles, Optimisation  
 - **Visualisation** : Power BI, R Shiny, Dash  
 - **Data Engineering** : ETL, AWS, Web Scraping (API, PRAW)  
@@ -29,7 +29,7 @@
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 - 📧 tallfatimata0705@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/fatimata-tall-a561b32a0/)  
