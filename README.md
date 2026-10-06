@@ -22,7 +22,7 @@
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
 | [Chatbot RAG](https://github.com/Fatimataensae/chatbot-rag-reddit) | Chatbot basé sur des données Reddit avec fine-tuning de GPT-2 | Python, NLP, PRAW, Gradio |
-| [Pipeline ETL & Cloud]([https://github.com/Fatimataensae/pipeline-etl-aws](https://github.com/mamadou-s-diallo/Projet_pipline_saidou_firhoun_fatimata_as3_2025)) | Collecte automatisée via API et stockage AWS | Python, AWS, ETL |
+| [Pipeline ETL & Cloud](https://github.com/mamadou-s-diallo/Projet_pipline_saidou_firhoun_fatimata_as3_2025)) | Collecte automatisée via API et stockage AWS | Python, AWS, ETL |
 | [Prédiction Trafic Transports](https://github.com/Fatimataensae/prediction-trafic-transports) | Modélisation prédictive sur titres de transport | Python (Scikit-learn) |
 | [Classification Risque Assurance](https://github.com/Fatimataensae/classification-risque-assurance) | Pipeline ML complet : régression logistique, SVM, forêts aléatoires | Python (Scikit-learn) |
 | [Tableau de bord ANOVA (RShiny)](lien) | Développement d’une application interactive d’analyse statistique (uni-et bivariée) et d’analyse de la variance. | R studio |
