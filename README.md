@@ -6,7 +6,7 @@
 
 ---
 
-## Compétences
+% ## Compétences
 
 - **ML & Deep Learning** : Apprentissage supervisée(Regression, Classification), Apprentissage non supervisée, Apprentissage par renforcement, GAN, VAE, NLP, RAG  
 - **Langages** : Python (Pandas, NumPy, scikit_Learn, Matplotlib, pyTorch), R, SQL, SAS  
